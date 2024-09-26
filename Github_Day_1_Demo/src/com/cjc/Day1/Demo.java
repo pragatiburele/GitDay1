@@ -10,6 +10,9 @@ public class Demo {
 	public void m3() {
 		System.out.println("m3 of demo");
 	}
+	public void m4(){
+		
+	}
 public static void main(String[] args) {
 	System.out.println("hello welcome to github");
 }
