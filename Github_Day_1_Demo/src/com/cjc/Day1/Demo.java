@@ -5,7 +5,10 @@ public class Demo {
 		System.out.println("m1 of demo");
 	}
 	public void m2(){
-		System.out.println("m2 of demo")
+		System.out.println("m2 of demo");
+	}
+	public void m4(){
+		System.out.println("m4");
 	}
 public static void main(String[] args) {
 	System.out.println("hello welcome to github");
