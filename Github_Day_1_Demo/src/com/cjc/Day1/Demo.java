@@ -11,7 +11,7 @@ public class Demo {
 		System.out.println("m3 of demo");
 	}
 	public void m4(){
-		
+		System.out.println("This is m4");
 	}
 public static void main(String[] args) {
 	System.out.println("hello welcome to github");
