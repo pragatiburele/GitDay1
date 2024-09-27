@@ -18,6 +18,9 @@ public class Demo {
 System.out.println("this is payal") ;
 		
 	}
+	public void m9()
+	{
+	}
 public static void main(String[] args) {
 	System.out.println("hello welcome to github");
 }
